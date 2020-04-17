@@ -1,0 +1,5 @@
+- e4s_product: e4s-demo
+  type: Sample
+  repo_url: https://raw.githubusercontent.com/E4S-Project/E4S-documentation-demo/master
+  website: https://github.com/E4S-Project/E4S-documentation-demo
+  docs: [README.md]
