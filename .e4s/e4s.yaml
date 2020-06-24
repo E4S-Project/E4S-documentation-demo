@@ -1,4 +1,5 @@
 - e4s_product: e4s-demo
+  version: 0.1.0
   type: Sample
   website: https://github.com/E4S-Project/E4S-documentation-demo
   docs: [README.md]
