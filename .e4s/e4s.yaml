@@ -2,4 +2,4 @@
   type: Sample
   website: https://github.com/E4S-Project/E4S-documentation-demo
   docs: [README.md]
-  subrepo_urls: ["https://github.com/E4S-Project/E4S-documentation-demo/raw/master/project1", "https://github.com/E4S-Project/E4S-documentation-demo/raw/master/project2"]
+  subrepo_urls: ["https://github.com/E4S-Project/E4S-documentation-demo/raw/master/project1", "https://github.com/E4S-Project/E4S-documentation-demo/raw/master/project2", "https://github.com/E4S-Project/E4S-documentation-demo/raw/master/project3"]
