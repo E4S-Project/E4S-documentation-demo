@@ -1,4 +1,6 @@
 - e4s_product: e4s-demo
-  type: Sample
+  Area: Sample #Valid areas are: Data & Viz, Math libraries, Development tools, PMR
   website: https://github.com/E4S-Project/E4S-documentation-demo
-  docs: [README.md]
+  docs: [README.md] #List of relevant docs to summarize including top level readme, licence and changelog files
+  Description: "A very brief description of the product"
+  MemberProduct: False #True if product is fully compatable with membership policies
